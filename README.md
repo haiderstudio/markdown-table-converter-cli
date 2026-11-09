@@ -2,7 +2,7 @@
 
 Convert CSV and JSON tables to GitHub-Flavoured Markdown tables and back again, offline, with no dependencies.
 
-[![CI](https://github.com/hai02487/markdown-table-converter-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/hai02487/markdown-table-converter-cli/actions/workflows/ci.yml) [![Licence: MIT](https://img.shields.io/badge/Licence-MIT-yellow.svg)](LICENSE)
+[![CI](https://github.com/haiderstudio/markdown-table-converter-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/haiderstudio/markdown-table-converter-cli/actions/workflows/ci.yml) [![Licence: MIT](https://img.shields.io/badge/Licence-MIT-yellow.svg)](LICENSE)
 
 ## What it does
 
@@ -48,7 +48,7 @@ browser-based table builder.
 No install step and no dependencies — Python 3.8+ is enough:
 
 ```sh
-git clone https://github.com/hai02487/markdown-table-converter-cli.git
+git clone https://github.com/haiderstudio/markdown-table-converter-cli.git
 cd markdown-table-converter-cli
 python3 src/markdown_table_converter.py --help
 ```
